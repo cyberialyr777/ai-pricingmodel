@@ -1,0 +1,31 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales de VS Code
+.vscode/
+*.code-workspace
+
+# Archivos de sistema y temporales
+.DS_Store
+Thumbs.db
+*.log
+
+# Archivos de Excel y resultados generados
+*.xlsx
+
+# Otros
+*.bak
